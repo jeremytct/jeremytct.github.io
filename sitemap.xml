@@ -2,73 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jeremytct.gitee.io/blog/posts/tech/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/posts/tech/</loc>
     <lastmod>2022-11-30T15:55:23+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/posts/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/posts/</loc>
     <lastmod>2022-11-30T15:55:23+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/categories/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/categories/</loc>
     <lastmod>2022-11-30T15:55:23+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/</loc>
     <lastmod>2022-11-30T15:55:23+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/tags/redis/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/tags/redis/</loc>
     <lastmod>2022-11-30T15:55:23+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/categories/redis/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/categories/redis/</loc>
     <lastmod>2022-11-30T15:55:23+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/posts/tech/tech1/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/posts/tech/tech1/</loc>
     <lastmod>2022-11-30T15:55:23+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/tags/tech/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/tags/tech/</loc>
     <lastmod>2022-11-30T15:55:23+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/tags/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/tags/</loc>
     <lastmod>2022-11-30T15:55:23+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/tags/blog/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/tags/blog/</loc>
     <lastmod>2022-05-05T00:18:23+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/posts/blog/blog/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/posts/blog/blog/</loc>
     <lastmod>2022-05-05T00:18:23+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/posts/blog/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/posts/blog/</loc>
     <lastmod>2022-05-05T00:18:23+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/tags/life/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/tags/life/</loc>
     <lastmod>2022-05-05T00:18:15+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/posts/life/life/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/posts/life/life/</loc>
     <lastmod>2022-05-05T00:18:15+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/posts/life/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/posts/life/</loc>
     <lastmod>2022-05-05T00:18:15+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/posts/read/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/posts/read/</loc>
     <lastmod>2022-05-05T00:18:06+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/tags/read/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/tags/read/</loc>
     <lastmod>2022-05-05T00:18:06+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/posts/read/read/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/posts/read/read/</loc>
     <lastmod>2022-05-05T00:18:06+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/posts/tech/tech/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/posts/tech/tech/</loc>
     <lastmod>2022-05-05T00:17:58+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/links/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/links/</loc>
     <lastmod>2021-11-06T15:15:53+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/about/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/about/</loc>
     <lastmod>2021-11-06T14:57:28+08:00</lastmod>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/archives/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/archives/</loc>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/search/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/search/</loc>
   </url><url>
-    <loc>https://jeremytct.gitee.io/blog/series/</loc>
+    <loc>https://jeremytct.gitee.io/blogs/series/</loc>
   </url>
 </urlset>
